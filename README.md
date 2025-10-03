@@ -87,7 +87,4 @@ curl -X POST \
     "text": "The quarterly report is finished and has been uploaded to the drive.",
     "prompt": "Rewrite the following text to sound more enthusiastic and celebratory for a team-wide message: "
 }'
-  -d '{
-    "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
-}'
 ```
